@@ -1,0 +1,161 @@
+  body{
+    background-color: blue;
+  }
+
+  h1{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: blanchedalmond;
+  }
+
+  div{
+
+      width: 300px;
+     margin: 40px;
+  }
+
+   div.kid{
+    border: 4px solid black;
+     float: left;
+     height: 500px;
+
+
+ }
+
+ div.kid:hover{
+     background: blanchedalmond;
+     
+ }
+
+  p.first{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+
+ p.first:hover{
+     color: black;
+ }
+
+  h3{
+    font-size: 30px;
+    text-shadow: 2px 2px brown;
+ }
+
+  p.second{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+
+ p.second:hover{
+    color: black;
+}
+  
+   
+ h3{
+    font-size: 30px;
+    text-shadow: 2px 2px brown;
+ }
+
+ p.only{
+     padding-top: 10px;
+     font-size: 19px;
+     color: white;
+ }
+
+ p.only:hover{
+    color: black;
+}
+
+  div.or{
+     margin-top: 1px;
+     border: 4px solid black;
+     width: 350px;
+     height: 300px;
+     background-color: black;
+     margin-left: 1px;
+     float: left;
+     
+
+ }
+
+ img{
+  height: 250px;
+  width: 200px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 35px;
+ }
+
+ p.to{
+     color: white;
+     font-size: 20px;
+     position: relative;
+ }
+
+  p.and{
+      font-size: 20px;
+      color: white;
+      font-size: 19px;
+  }
+
+ ul{
+     list-style-type: none;
+
+ }
+
+  li a{
+    color: tan;
+    padding-bottom: 30px;
+    
+
+
+}
+
+  img.pic{
+      width: 200px;
+  }
+ 
+
+  p.nand{
+  font-size: 20px;
+  color: white;
+  font-size: 19px;
+  padding-right: 20px;
+
+   }
+
+   p.nor{
+    font-size: 20px;
+    color: white;
+    font-size: 19px;
+    padding-left: 7px;
+  
+     }
+
+    div.para{
+        width: 1000px;
+
+    }
+      h2{
+          font-size: 40px;
+          color: black;
+          text-shadow: 2px 2px brown;
+      }
+
+      p.xor{
+          font-size: 20px;
+          color: white;
+          -webkit-column-count: 3;
+          column-count: 3;
+          -webkit-column-gap: 50px;
+          column-gap:50px;
+         text-align: justify;
+
+      }
